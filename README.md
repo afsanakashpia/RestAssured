@@ -38,6 +38,10 @@ This project automates REST API testing for the [DailyFinance](https://dailyfina
 
 -POM(Project Object Model) Architecture
 
+### Postman Collection
+
+ https://documenter.getpostman.com/view/42772182/2sB2jAc8HJ
+
 ### SetUp
 
 - 1. Clone the repo:
